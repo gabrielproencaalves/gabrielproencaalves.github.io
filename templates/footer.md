@@ -6,7 +6,7 @@
 
 ---
 
-Aprenda DOT Copyright © 2024
+Gabriel Proença Alves Copyright © 2024
 
 Exceto onde informado ao contrário, o conteúdo deste site está sob a licença
 
