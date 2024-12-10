@@ -1,0 +1,81 @@
+#!/bin/sh
+
+dirssplit() {
+  IFS="$IFS/"
+  echo $INPUTFILE
+  IFS=$(printf " \t\n")
+}
+
+dircount() {
+  echo $(($(dirssplit | wc -w) - 1))
+}
+
+dirnew(){
+  COUNT=$(dircount)
+  NEWDIR="."
+  for dir in $(dirssplit); do
+    if [ $COUNT -eq 0 ]; then
+      break
+    fi
+    NEWDIR="$NEWDIR/$dir"
+    COUNT=$((COUNT - 1))
+  done
+  echo "$NEWDIR/$1"
+}
+
+replace() {
+
+# $1 - the old expression
+# $2 - the new expression
+# $3 - the output file
+
+  sed -i -E -e "s/$1/$2/" $3
+}
+
+main() {
+  # Arquivo de conteúdos markdown
+  INPUTFILE=$1
+
+  # Caminho do arquivo final
+  OUTPUTFILE=$(dirnew index.html)
+
+  # Informações do cabeçalho do html final
+  HEADINFO="<body>"
+  HEADINFO="$HEADINFO\n<nav>"
+  HEADINFO="$HEADINFO\n<a href=\"\"><===<\/a>"
+  HEADINFO="$HEADINFO\n<a href=\"..\">(VOLTAR)<\/a>"
+  HEADINFO="$HEADINFO\n<a href=\"\">===><\/a>"
+  HEADINFO="$HEADINFO\n<\/nav>"
+  HEADINFO="$HEADINFO\n<hr\/>"
+  HEADINFO="$HEADINFO\n;;;StartMainContent"
+
+  # Unir cabeçalho, conteúdo e rodapé em um rascunho em markdown
+  cat templates/header.md \
+      $INPUTFILE          \
+      templates/footer.md \
+      > rascunho.md
+
+
+  # Converter rascunho markdown para index.html
+  # Acrescentando alguns detalhes ao html final
+  lowdown -sthtml rascunho.md -o $OUTPUTFILE
+  replace "<body>" "$HEADINFO" $OUTPUTFILE
+
+  # Delimitar conteúdo principal
+  replace ".*;;;StartMainContent.*" "<article>" $OUTPUTFILE
+  replace ".*;;;EndMainContent.*" "<\/article>" $OUTPUTFILE
+
+  # Delimitar conteúdo do rodapé
+  replace ".*;;;StartFooter.*" "<footer>" $OUTPUTFILE
+  replace ".*;;;EndFooter.*" "<\/footer>" $OUTPUTFILE
+
+  # Remover rascunho markdown
+  rm rascunho.md
+}
+
+if [ $# -eq 0 ]; then
+  echo "USAGE: makeart path/to/markdown/file.md"
+  exit 1
+fi
+
+main $*
