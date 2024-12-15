@@ -1,5 +1,5 @@
-title: Protestantismo
+title: Pentecostalismo
 
-# Protestantismo
+# Pentecostalismo
 
 - [Terminologia Cristã](./terminologia-crista/)
