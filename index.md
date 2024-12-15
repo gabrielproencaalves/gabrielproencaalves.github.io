@@ -6,7 +6,7 @@ Estimado(a) leitor(a), seja bem-vindo(a) ao meu blog pessoal. Aqui, você encont
 
 - [Quem sou eu?](./404/)
 - [Estudos Pessoais](./404/)
-- [Cristianismo Protestante](./404/)
+- [Cristianismo Protestante](./protestantismo/)
 - [Música](./404/)
 - [Tecnologia](./404/)
 - [Perguntas frequentes](./faq/)
