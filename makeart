@@ -40,7 +40,7 @@ main() {
   OUTPUTFILE=$(dirnew index.html)
 
   # Configurações do <head> do html final
-  HEADINFO="<link rel=\"icon\" type=\"image\/x-icon\" href=\"..\/..\/img\/favicon.ico\""
+  HEADINFO="<link rel=\"icon\" type=\"image\/x-icon\" href=\"\/img\/favicon.ico\""
   HEADINFO="$HEADINFO\n<\/head>"
 
   # Informações do cabeçalho do html final
