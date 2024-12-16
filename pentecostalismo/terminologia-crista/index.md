@@ -14,4 +14,4 @@ Nós, cristãos, devemos saber que pelo modo em que tratarmos nosso próximo Deu
 
 ## Notas
 
-|1| _De fato, não existe um versículo bíblico que explicite isso. Porém, ela pode ser assim definida por meio das características implícitas nos exemplos de Salomão, os encontrados em Eclesiastes (Ec 1.2; 4.7; 12.1-8), acerca da vaidade. Porque neles, o rei de Israel designa como vaidade aquilo que se encontra "debaixo do sol", em outras palavras, aquilo que é **temporário, cíclico, finito e pertencente a esta vida**._
+|1| De fato, não existe um versículo bíblico que explicite isso. Porém, ela pode ser assim definida por meio das características implícitas nos exemplos de Salomão, os encontrados em Eclesiastes (Ec 1.2; 4.7; 12.1-8), acerca da vaidade. Porque neles, o rei de Israel designa como vaidade aquilo que se encontra "debaixo do sol", em outras palavras, aquilo que é **temporário, cíclico, finito e pertencente a esta vida**.
