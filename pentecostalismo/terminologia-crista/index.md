@@ -20,7 +20,7 @@ Considerando a caridade como um sinônimo de amor, Deus é caridade|1|. Por isso
 
 |5| I João 2.5.
 
-|6| Há outras passagens onde a ideia central daquele texto é ratificada, porém, omiti-as pois não eram tão necessárias. E, dentre elas, pode-se citar II João 1.6.
+|6| Há outras passagens onde a ideia central daquele texto é ratificada, porém, omiti-as pois não eram tão necessárias. E, dentre elas, pode-se citar II João 1.6 e I Co 13.
 
 ## O que é vaidade?
 
