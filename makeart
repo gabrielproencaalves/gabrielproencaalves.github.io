@@ -52,18 +52,12 @@ main() {
   OUTPUTFILE=$(dirnew index.html)
 
   # Configurações do <head> do html final
-  HEADINFO="<link rel=\"icon\" type=\"image\/x-icon\" href=\"\/img\/favicon.ico\""
-  HEADINFO="$HEADINFO\n<\/head>"
+  HEAD="$(cat templates/head.html)"
+  HEAD="$(literalize " "$HEAD" ")"
 
   # Informações do cabeçalho do html final
-  HEADERINFO="<body>"
-  HEADERINFO="$HEADERINFO\n<nav>"
-  HEADERINFO="$HEADERINFO\n<a href=\"\"><===<\/a>"
-  HEADERINFO="$HEADERINFO\n<a href=\"..\">(VOLTAR)<\/a>"
-  HEADERINFO="$HEADERINFO\n<a href=\"\">===><\/a>"
-  HEADERINFO="$HEADERINFO\n<\/nav>"
-  HEADERINFO="$HEADERINFO\n<hr\/>"
-  HEADERINFO="$HEADERINFO\n;;;StartMainContent"
+  NAVIGATION="$(cat templates/nav.html)"
+  NAVIGATION="$(literalize " "$NAVIGATION" ")"
 
   # Unir cabeçalho, conteúdo e rodapé em um rascunho em markdown
   cat templates/header.md \
@@ -75,8 +69,8 @@ main() {
   # Converter rascunho markdown para index.html
   # Acrescentando alguns detalhes ao html final
   lowdown -sthtml rascunho.md -o $OUTPUTFILE
-  replace "<body>" "$HEADERINFO" $OUTPUTFILE
-  replace "<\/head>" "$HEADINFO" $OUTPUTFILE
+  replace "<body>" "$NAVIGATION" $OUTPUTFILE
+  replace "<\/head>" "$HEAD" $OUTPUTFILE
 
   # Delimitar conteúdo principal
   replace ".*;;;StartMainContent.*" "<article>" $OUTPUTFILE
