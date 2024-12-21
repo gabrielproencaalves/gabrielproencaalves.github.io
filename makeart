@@ -1,12 +1,12 @@
 #!/bin/sh
 
-dirssplit() {
+dirssplit(){
   IFS="$IFS/"
   echo $INPUTFILE
   IFS=$(printf " \t\n")
 }
 
-dircount() {
+dircount(){
   echo $(($(dirssplit | wc -w) - 1))
 }
 
