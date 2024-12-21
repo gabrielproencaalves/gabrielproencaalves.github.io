@@ -2,6 +2,8 @@
 
 ;;;EndMainContent
 
+<div class="giscus"></div>
+
 ;;;StartFooter
 
 ---
