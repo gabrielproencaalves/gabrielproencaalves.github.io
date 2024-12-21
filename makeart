@@ -23,13 +23,25 @@ dirnew(){
   echo "$NEWDIR/$1"
 }
 
-replace() {
-
+replace(){
 # $1 - the old expression
 # $2 - the new expression
 # $3 - the output file
-
   sed -i -E -e "s/$1/$2/" $3
+}
+
+# Torna o primeiro argumento
+# uma string legível ao sed
+literalize(){
+  # / para \/
+  # " para \"
+  # >' ' para >
+  # ' '< para <
+  echo "$*" \
+  | sed 's/\//\\\//g' \
+  | sed 's/\"/\\\"/g' \
+  | sed 's/> />/g'    \
+  | sed 's/ </</g'
 }
 
 main() {
