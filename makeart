@@ -78,7 +78,7 @@ main() {
 
   # Inserir seção de comentários
   replace ".*;;;CommentsArea.*" \
-          "<hr/><div class=\"giscus\"><\/div>" \
+          "<hr\/><div class=\"giscus\"><\/div>" \
           $OUTPUTFILE
 
   # Delimitar conteúdo do rodapé
