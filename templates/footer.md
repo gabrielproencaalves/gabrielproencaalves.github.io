@@ -2,7 +2,7 @@
 
 ;;;EndMainContent
 
-<div class="giscus"></div>
+;;;CommentsArea
 
 ;;;StartFooter
 

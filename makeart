@@ -68,13 +68,18 @@ main() {
 
   # Converter rascunho markdown para index.html
   # Acrescentando alguns detalhes ao html final
-  lowdown -sthtml rascunho.md -o $OUTPUTFILE
+  lowdown -sthtml rascunho.md --html-no-skiphtml -o $OUTPUTFILE
   replace "<body>" "$NAVIGATION" $OUTPUTFILE
   replace "<\/head>" "$HEAD" $OUTPUTFILE
 
   # Delimitar conteúdo principal
   replace ".*;;;StartMainContent.*" "<article>" $OUTPUTFILE
   replace ".*;;;EndMainContent.*" "<\/article>" $OUTPUTFILE
+
+  # Inserir seção de comentários
+  replace ".*;;;CommentsArea.*" \
+          "<div class=\"giscus\"><\/div>" \
+          $OUTPUTFILE
 
   # Delimitar conteúdo do rodapé
   replace ".*;;;StartFooter.*" "<footer>" $OUTPUTFILE
