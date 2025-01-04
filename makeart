@@ -66,6 +66,11 @@ literalize(){
       -e 's/ </</g'
 }
 
+# Remove as linhas vazias vazias de um arquivo
+delete_empty_lines(){
+  sed -i -e '/^$/d' $*
+}
+
 main() {
   # Arquivo de conteúdos markdown
   INPUTFILE=$1
