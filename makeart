@@ -90,12 +90,11 @@ main() {
       templates/footer.md \
       > rascunho.md
 
-
-  # Converter rascunho markdown para index.html
-  # Acrescentando alguns detalhes ao html final
-  lowdown -sthtml rascunho.md --html-no-skiphtml -o $OUTPUTFILE
+  # Converter rascunho markdown para index.html Acrescentando alguns detalhes
+  # ao html final
+  lowdown -sthtml rascunho.md -o $OUTPUTFILE
+  replace "<\/head>" "$HEAD"     $OUTPUTFILE
   replace "<body>" "$NAVIGATION" $OUTPUTFILE
-  replace "<\/head>" "$HEAD" $OUTPUTFILE
 
   # Delimitar conteúdo principal
   replace ".*;;;StartMainContent.*" "<article>" $OUTPUTFILE
