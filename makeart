@@ -54,18 +54,16 @@ file_to_string(){
   echo "$STRING"
 }
 
-# Torna o primeiro argumento
-# uma string legível ao sed
+# Transforma o conteúdo recebido em uma string compatível com sed
 literalize(){
   # / para \/
   # " para \"
   # >' ' para >
   # ' '< para <
-  echo "$*" \
-  | sed 's/\//\\\//g' \
-  | sed 's/\"/\\\"/g' \
-  | sed 's/> />/g'    \
-  | sed 's/ </</g'
+  sed -e 's/\//\\\//g' \
+      -e 's/\"/\\\"/g' \
+      -e 's/> />/g'    \
+      -e 's/ </</g'
 }
 
 main() {
