@@ -1,9 +1,10 @@
 #!/bin/sh
 
 dirssplit(){
+  OLDIFS="$IFS"
   IFS="$IFS/"
   echo $INPUTFILE
-  IFS=$(printf " \t\n")
+  IFS="$OLDIFS"
 }
 
 dircount(){
