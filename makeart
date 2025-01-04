@@ -37,6 +37,23 @@ load_template_html(){
   file_to_string $HTML_FILE | literalize
 }
 
+# Transforma um conteúdo de múltiplas linhas em uma sequência de caracteres
+file_to_string(){
+  OLDIFS="$IFS"
+  IFS="
+"
+  STRING=""
+  FILE="$1"
+  for LINE in $(cat $FILE)
+  do
+    STRING="$STRING""$LINE"'\\''n'
+    echo "$STRING" > an.txt
+  done
+  IFS="$OLDIFS"
+
+  echo "$STRING"
+}
+
 # Torna o primeiro argumento
 # uma string legível ao sed
 literalize(){
