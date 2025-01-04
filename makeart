@@ -31,6 +31,12 @@ replace(){
   sed -i -e "s/$1/$2/" $3
 }
 
+load_template_html(){
+  HTML_FILE="$1"
+
+  file_to_string $HTML_FILE | literalize
+}
+
 # Torna o primeiro argumento
 # uma string legível ao sed
 literalize(){
