@@ -28,7 +28,7 @@ replace(){
 # $1 - the old expression
 # $2 - the new expression
 # $3 - the output file
-  sed -i -E -e "s/$1/$2/" $3
+  sed -i -e "s/$1/$2/" $3
 }
 
 # Torna o primeiro argumento
