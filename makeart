@@ -79,12 +79,10 @@ main() {
   OUTPUTFILE=$(dirnew index.html)
 
   # Configurações do <head> do html final
-  HEAD="$(cat templates/head.html)"
-  HEAD="$(literalize " "$HEAD" ")"
+  HEAD="$(load_template_html templates/head.html)"
 
   # Informações do cabeçalho do html final
-  NAVIGATION="$(cat templates/nav.html)"
-  NAVIGATION="$(literalize " "$NAVIGATION" ")"
+  NAVIGATION="$(load_template_html templates/nav.html)"
 
   # Unir cabeçalho, conteúdo e rodapé em um rascunho em markdown
   cat templates/header.md \
