@@ -109,6 +109,9 @@ main() {
   replace ".*;;;StartFooter.*" "<footer>" $OUTPUTFILE
   replace ".*;;;EndFooter.*" "<\/footer>" $OUTPUTFILE
 
+  # Excluir linhas vazias
+  delete_empty_lines $OUTPUTFILE
+
   # Remover rascunho markdown
   rm rascunho.md
 }
