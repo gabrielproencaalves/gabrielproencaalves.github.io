@@ -47,7 +47,6 @@ file_to_string(){
   for LINE in $(cat $FILE)
   do
     STRING="$STRING""$LINE"'\\''n'
-    echo "$STRING" > an.txt
   done
   IFS="$OLDIFS"
 
