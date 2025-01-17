@@ -5,6 +5,7 @@ all: index \
      estudos-pessoais/index \
      estudos-pessoais/a-leitura/index \
      estudos-pessoais/como-aprender/index \
+     estudos-pessoais/recursos-para-o-enem/index \
      faq/index \
      pentecostalismo/index \
      pentecostalismo/terminologia-crista/index
@@ -35,6 +36,11 @@ estudos-pessoais/a-leitura/index:
 estudos-pessoais/como-aprender/index:
 > ./makeart estudos-pessoais/como-aprender/index.md
 > sed -i estudos-pessoais/como-aprender/index.html \
+> -e '/nav arrow/d'
+
+estudos-pessoais/recursos-para-o-enem/index:
+> ./makeart estudos-pessoais/recursos-para-o-enem/index.md
+> sed -i estudos-pessoais/recursos-para-o-enem/index.html \
 > -e '/nav arrow/d'
 
 faq/index:
