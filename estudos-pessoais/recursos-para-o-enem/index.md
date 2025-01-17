@@ -19,3 +19,4 @@ permanentemente na nuvem, o aluno poderá cadastrar-se gratuitamente no site.
 A seguir, está organizada por matéria uma lista de professores cujas aulas são didaticamente notáveis e livremente acessíveis via internet.
 
 * Biologia: [Kennedy Ramos](https://www.youtube.com/@bioexplica).
+* Química: [Murilo Xoven](?)
