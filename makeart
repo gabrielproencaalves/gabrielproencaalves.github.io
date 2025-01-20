@@ -70,6 +70,12 @@ delete_empty_lines(){
   sed -i -e '/^$/d' $*
 }
 
+# Retorna o horário atual formatado
+last_modified(){
+  printf "<p class=\"last-modified\">Última modificação em %s às %s horas.</p>" $(date +%d/%m/%Y) $(date +%_H:%M) \
+  | literalize
+}
+
 main() {
   # Arquivo de conteúdos markdown
   INPUTFILE=$1
@@ -98,6 +104,9 @@ main() {
   # Delimitar conteúdo principal
   replace ".*;;;StartMainContent.*" "<article>" $OUTPUTFILE
   replace ".*;;;EndMainContent.*" "<\/article>" $OUTPUTFILE
+
+  # Inserir momento da última modificação
+  replace ".*;;;InfoLastModified.*" "$(last_modified)" $OUTPUTFILE
 
   # Inserir seção de comentários
   replace ".*;;;CommentsArea.*" \
