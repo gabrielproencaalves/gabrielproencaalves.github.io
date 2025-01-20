@@ -30,3 +30,10 @@ p {
 h1, footer {
   text-align: center;
 }
+
+/* definições extras... */
+
+.last-modified {
+  text-align: end;
+  font-size: 8pt;
+}
