@@ -2,7 +2,7 @@ title: Recursos para o ENEM
 
 # Recursos para o ENEM
 
-Este artigo possui o objetivo de reunir, para os estudantes que planejam
+Esta página possui o objetivo de reunir, para os estudantes que planejam
 prestar futuramente o ENEM, recursos online, gratuitos e recomendáveis para o
 estudo dos conteúdos requeridos pelo exame.
 
@@ -14,6 +14,8 @@ possível selecionar, por matéria, os tópicos a serem examinados durante a
 jornada de estudos, gerando para o usuário, ao final, um cronograma
 personalizado. E, para armazená-lo permanentemente na nuvem, o aluno poderá
 cadastrar-se gratuitamente no site.
+
+_Observação: caso haja dúvidas no momento de escolher os itinerários, a melhor opção é selecionar todas as opções, para não perder nenhum conteúdo._
 
 ## Docentes recomendados
 
