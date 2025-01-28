@@ -17,7 +17,8 @@ cadastrar-se gratuitamente no site.
 
 ## Docentes recomendados
 
-A seguir, está organizada por matéria uma lista de professores cujas aulas são didaticamente notáveis e livremente acessíveis via internet.
+A seguir, está organizada por matéria uma lista de links para aulas cujos professores são
+didaticamente notáveis.
 
 * Biologia: [Kennedy Ramos](https://www.youtube.com/@bioexplica).
 * Química: [Murilo Xoven](?)
