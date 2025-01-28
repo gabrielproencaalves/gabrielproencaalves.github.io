@@ -32,5 +32,5 @@ didaticamente notáveis.
 Além disso, se você souber outras fontes válidas de informação que cumpram os
 critérios dos materiais aqui divulgados, por favor, contribua compartilhando-as
 pela seção de comentários localizada abaixo ou com o [meu
-email](t0gvovdr@mailmask.me). Pois isso poderá auxiliar a muitos estudantes que
+email](mailto:t0gvovdr@mailmask.me). Pois isso poderá auxiliar a muitos estudantes que
 possuem somente o acesso à internet.
