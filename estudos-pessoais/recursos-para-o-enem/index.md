@@ -20,5 +20,7 @@ cadastrar-se gratuitamente no site.
 A seguir, está organizada por matéria uma lista de links para aulas cujos professores são
 didaticamente notáveis.
 
-* Biologia: [Kennedy Ramos](https://www.youtube.com/@bioexplica).
-* Química: [Murilo Xoven](?)
+* Biologia: [Prof. Kennedy Ramos](https://www.youtube.com/@bioexplica).
+* Física: [Prof. Marcelo Boaro](https://www.youtube.com/@professorboaro)
+* Matemática: [Prof. Pedro Itallo](https://youtube.com/playlist?list=PL-cWjvjoSJcdoCEYbv0ckR4AILITh18uE&si=69gMbxoIZKDJ3WVk)
+* Química: [Prof. Murilo Xoven](https://www.youtube.com/results?search_query=Murilo+Xoven&sp=EgQQARgD)
