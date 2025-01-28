@@ -26,3 +26,11 @@ didaticamente notáveis.
 * Física: [Prof. Marcelo Boaro](https://www.youtube.com/@professorboaro)
 * Matemática: [Prof. Pedro Itallo](https://youtube.com/playlist?list=PL-cWjvjoSJcdoCEYbv0ckR4AILITh18uE&si=69gMbxoIZKDJ3WVk)
 * Química: [Prof. Murilo Xoven](https://www.youtube.com/results?search_query=Murilo+Xoven&sp=EgQQARgD)
+
+## Ajude-me
+
+Além disso, se você souber outras fontes válidas de informação que cumpram os
+critérios dos materiais aqui divulgados, por favor, contribua compartilhando-as
+pela seção de comentários localizada abaixo ou com o [meu
+email](t0gvovdr@mailmask.me). Pois isso poderá auxiliar a muitos estudantes que
+possuem somente o acesso à internet.
