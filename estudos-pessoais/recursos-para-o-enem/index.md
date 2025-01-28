@@ -15,7 +15,7 @@ jornada de estudos, gerando para o usuário, ao final, um cronograma
 personalizado. E, para armazená-lo permanentemente na nuvem, o aluno poderá
 cadastrar-se gratuitamente no site.
 
-_Observação: caso haja dúvidas no momento de escolher os itinerários, a melhor opção é selecionar todas as opções, para não perder nenhum conteúdo._
+_Observação: caso haja dúvidas no momento de escolher os itinerários, a melhor decisão é selecionar todas as opções, para não perder nenhum conteúdo._
 
 ## Docentes recomendados
 
