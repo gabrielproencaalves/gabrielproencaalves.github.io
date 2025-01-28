@@ -14,19 +14,24 @@ index:
 > ./makeart index.md
 > sed -i index.html \
 > -e '/.*giscus.*/d' \
-> -e '/nav/d'
+> -e '/nav/d' \
+> -e '/last-modified/d'
 
 404/index:
 > ./makeart 404/index.md
 > sed -i 404/index.html \
 > -e '/giscus/d' \
-> -e '/nav arrow/d'
+> -e '/nav arrow/d' \
+> -e '/last-modified/d'
+
 
 estudos-pessoais/index:
 > ./makeart estudos-pessoais/index.md
 > sed -i estudos-pessoais/index.html \
 > -e '/giscus/d' \
-> -e '/nav arrow/d'
+> -e '/nav arrow/d' \
+> -e '/last-modified/d'
+
 
 estudos-pessoais/a-leitura/index:
 > ./makeart estudos-pessoais/a-leitura/index.md
@@ -52,7 +57,9 @@ pentecostalismo/index:
 > ./makeart pentecostalismo/index.md
 > sed -i pentecostalismo/index.html \
 > -e '/giscus/d' \
-> -e '/nav arrow/d'
+> -e '/nav arrow/d' \
+> -e '/last-modified/d'
+
 
 pentecostalismo/terminologia-crista/index:
 > ./makeart pentecostalismo/terminologia-crista/index.md
