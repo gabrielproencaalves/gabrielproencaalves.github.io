@@ -10,9 +10,10 @@ estudo dos conteúdos requeridos pelo exame.
 
 Na página disponibilizada por [este
 link](https://vestibular.brasilescola.uol.com.br/enem/cronograma-estudos), é
-possível selecionar, por matéria, os tópicos a serem examinados, gerando para o
-usuário, ao final, um cronograma personalizado. E, para armazená-lo
-permanentemente na nuvem, o aluno poderá cadastrar-se gratuitamente no site.
+possível selecionar, por matéria, os tópicos a serem examinados durante a
+jornada de estudos, gerando para o usuário, ao final, um cronograma
+personalizado. E, para armazená-lo permanentemente na nuvem, o aluno poderá
+cadastrar-se gratuitamente no site.
 
 ## Docentes recomendados
 
