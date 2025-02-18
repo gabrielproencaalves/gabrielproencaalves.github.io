@@ -15,7 +15,8 @@ jornada de estudos, gerando para o usuário, ao final, um cronograma
 personalizado. E, para armazená-lo permanentemente na nuvem, o aluno poderá
 cadastrar-se gratuitamente no site.
 
-_Observação: caso haja dúvidas no momento de escolher os itinerários, a melhor decisão é selecionar todas as opções, para não perder nenhum conteúdo._
+_Observação: caso haja dúvidas no momento de escolher os itinerários, a melhor
+decisão é selecionar todas as opções, para não perder nenhum conteúdo._
 
 ## Docentes recomendados
 
@@ -26,6 +27,15 @@ didaticamente notáveis.
 * Física: [Prof. Marcelo Boaro](https://www.youtube.com/@professorboaro)
 * Matemática: [Prof. Pedro Itallo](https://youtube.com/playlist?list=PL-cWjvjoSJcdoCEYbv0ckR4AILITh18uE&si=69gMbxoIZKDJ3WVk)
 * Química: [Prof. Murilo Xoven](https://www.youtube.com/results?search_query=Murilo+Xoven&sp=EgQQARgD)
+
+## Classificação de Assuntos por Relevância
+
+A seguir, estão classificados por frequência os conhecimentos abordados pelas
+provas anteriores do Enem, segundo uma pesquisa formulada pelo centro
+educacional Gama Pré-Vestibulares|1|.
+
+|1| [...] E, desde já, formalizo aqui os meus agradecimentos à estudante Nataly
+por repassar-me este estudo.
 
 ## Ajude-me
 
