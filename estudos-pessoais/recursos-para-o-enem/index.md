@@ -34,8 +34,72 @@ A seguir, estão classificados por frequência os conhecimentos abordados pelas
 provas anteriores do Enem, segundo uma pesquisa formulada pelo centro
 educacional Gama Pré-Vestibulares|1|.
 
+### Biologia
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Desequilíbrios Ambientais | 42 | 22,83% |
+| Ecologia | 24 | 13,04% |
+| Citologia | 23 | 12,50% |
+| Botânica | 15 | 8,15% |
+| Biotecnologia | 14 | 7,61% |
+| Patologia | 14 | 7,61% |
+| Embriologia e Histologia | 9 | 4,89% |
+| Citogenética | 9 | 4,89% |
+| Evolução | 7 | 3,80% |
+| Genética | 7 | 3,80% |
+| Fisiologia Humana 2: sistemas de respostas [imunológicas] | 6 | 3,26% |
+| Fisiologia Humana 1: centros de controle | 5 | 2,72% |
+| Zoologia | 5 | 2,72% |
+| Reinos Inferiores | 4 | 2,17% |
+
+### Física
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Eletrodinâmica | 37 | 19,68% |
+| Termologia | 35 | 18,62% |
+| Ondulatória | 31 | 16,49% |
+| Energia | 20 | 10,64% |
+| Dinâmica | 16 | 8,51% |
+| Cinemática | 15 | 7,98% |
+| Óptica | 10 | 5,32% |
+| Eletrostática e Magnetismo | 8 | 4,26% |
+| Cinemática Vetorial | 8 | 4,26% |
+| Estática | 8 | 4,26% |
+
+### Matemática
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Aritmética | 145 | 32,58% |
+| Estatística | 73 | 16,40% |
+| Figuras Geométricas | 66 | 14,83% |
+| Fundamentos Algébricos | 59 | 13,26% |
+| Álgebra | 45 | 10,11% |
+| Análise Combinatória de Probabilidade | 33 | 7,42% |
+| Elementos Geométricos | 16 | 3,60% |
+| Álgebra Matricial e Trigonométrica | 5 | 1,12% |
+| Geometria Analítica | 3 | 0,67% |
+
+### Química
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Físico-Química | 18 | 15,25% |
+| Funções Orgânicas | 17 | 14,41% |
+| Funções Inorgânicas | 16 | 13,56% |
+| Inorgânica | 13 | 11,02% |
+| Eletroquímica | 13 | 11,02% |
+| Substâncias e Misturas | 11 | 9,32% |
+| Estequiometria | 11 | 9,32% |
+| Analítica | 6 | 5,08% |
+| Reações Orgânicas | 5 | 4,24% |
+| Radioatividade | 5 | 4,24% |
+| Propriedades Orgânicas | 3 | 2,54% |
+
 |1| [...] E, desde já, formalizo aqui os meus agradecimentos à estudante Nataly
-por repassar-me este estudo.
+M. de Siqueira por repassar-me este estudo.
 
 ## Ajude-me
 
