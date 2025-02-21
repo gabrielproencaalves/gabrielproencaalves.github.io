@@ -31,8 +31,8 @@ didaticamente notáveis.
 ## Classificação de Assuntos por Relevância
 
 A seguir, estão classificados por frequência os conhecimentos abordados pelas
-provas anteriores do Enem, segundo uma pesquisa formulada pelo centro
-educacional Gama Pré-Vestibulares|1|.
+provas anteriores do Enem, segundo uma pesquisa\|1\| formulada pelo centro
+educacional Gama Pré-Vestibulares\|2\|.
 
 ### Biologia
 
@@ -98,8 +98,15 @@ educacional Gama Pré-Vestibulares|1|.
 | Radioatividade | 5 | 4,24% |
 | Propriedades Orgânicas | 3 | 2,54% |
 
-|1| [...] E, desde já, formalizo aqui os meus agradecimentos à estudante Nataly
-M. de Siqueira por repassar-me este estudo.
+### Notas
+
+\|1\| Guia ENEM 2025: Guia de estudos para o enem 2025. Gama
+Pré-Vestibular, 2025. Disponível em:
+https://sites.google.com/gamaensino.com/guiaenem2025/guia-enem-2025. Acesso em:
+16 fev. 2025.
+
+\|2\| E, desde já, formalizo aqui os meus agradecimentos à estudante
+Nataly M. de Siqueira por repassar-me este estudo.
 
 ## Ajude-me
 
