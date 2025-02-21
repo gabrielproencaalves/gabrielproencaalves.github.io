@@ -30,7 +30,7 @@ didaticamente notáveis.
 
 ## Classificação de Assuntos por Relevância
 
-A seguir, estão classificados por frequência os conhecimentos abordados pelas
+Logo abaixo, estão classificados por frequência os conhecimentos abordados pelas
 provas anteriores do Enem, segundo uma pesquisa\|1\| formulada pelo centro
 educacional Gama Pré-Vestibulares\|2\|.
 
@@ -110,7 +110,7 @@ Nataly M. de Siqueira por repassar-me este estudo.
 
 ## Ajude-me
 
-Além disso, se você souber outras fontes válidas de informação que cumpram os
+Por fim, se você souber outras fontes válidas de informação que cumpram os
 critérios dos materiais aqui divulgados, por favor, contribua compartilhando-as
 pela seção de comentários localizada abaixo ou com o [meu
 email](mailto:t0gvovdr@mailmask.me). Pois isso poderá auxiliar a muitos estudantes que
