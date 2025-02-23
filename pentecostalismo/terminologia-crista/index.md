@@ -11,35 +11,35 @@ equívocos.
 
 ## O que é caridade?
 
-Considerando a caridade como um sinônimo de amor, Deus é caridade|1|. Por isso,
+Considerando a caridade como um sinônimo de amor, Deus é caridade\|1\|. Por isso,
 ter caridade é, na verdade, achegar-se ao Pai. E, para nos achegarmos a Ele,
 precisamos percorrer um certo caminho. E esse caminho é Cristo, pois Ele mesmo
-declarou "Eu sou o caminho [...] ninguém vem ao Pai, senão por mim"|2| e disse
+declarou "Eu sou o caminho [...] ninguém vem ao Pai, senão por mim"\|2\| e disse
 "se guardardes os meus mandamentos, permanecereis no meu amor; do mesmo modo
-que eu tenho guardado os mandamentos de meu Pai, e permaneço no seu amor"|3|.
+que eu tenho guardado os mandamentos de meu Pai, e permaneço no seu amor"\|3\|.
 Portanto, quem viver no Senhor Jesus, ou seja, crer inteiramente Nele e
 obedecer fielmente às suas palavras, será morada de Cristo, do Pai e,
 consequentemente, do seu amor, porquanto "se alguém me ama, guardará a minha
-palavra, e meu Pai o amará, e viremos para ele, e faremos nele morada"|4|. Por
+palavra, e meu Pai o amará, e viremos para ele, e faremos nele morada"\|4\|. Por
 fim, na primeira epístola do apóstolo João, está escrito: "qualquer que guarda
 a sua palavra, o amor de Deus está nele verdadeiramente aperfeiçoado: nisto
-conhecemos que estamos nele [em Cristo]"|5| |6|.
+conhecemos que estamos nele [em Cristo]"\|5\| \|6\|.
 
 ### Notas
 
-|1| I João 4.8.
+\|1\| I João 4.8.
 
-|2| João 14.6.
+\|2\| João 14.6.
 
-|3| João 15.10.
+\|3\| João 15.10.
 
-|4| João 14.23.
+\|4\| João 14.23.
 
-|5| I João 2.5.
+\|5\| I João 2.5.
 
-|6| Há outras passagens onde a ideia central daquele texto é ratificada, porém,
-omiti-as pois não eram tão necessárias. E, dentre elas, pode-se citar II João
-1.6 e I Co 13.
+\|6\| Há outras passagens onde a ideia central daquele texto é ratificada,
+porém, omiti-as pois não eram tão necessárias. E, dentre elas, pode-se citar II
+João 1.6 e I Co 13.
 
 ## O que é perdão?
 
@@ -51,13 +51,13 @@ fizermos, isso nos será feito (Mt 6:14).
 
 ## O que é vaidade?
 
-Tudo; exceto as coisas de natureza espiritual, porque duram eternamente|1|.
+Tudo; exceto as coisas de natureza espiritual, porque duram eternamente\|1\|.
 
 ### Notas
 
-|1| De fato, não existe um versículo bíblico que explicite isso. Porém, ela
-pode ser assim definida por meio das características implícitas nos exemplos
-de Salomão, os encontrados em Eclesiastes (Ec 1.2; 4.7; 12.1-8), acerca da
+\|1\| De fato, não existe um versículo bíblico que explicite isso. Porém, ela
+pode ser assim definida por meio das características implícitas nos exemplos de
+Salomão, os encontrados em Eclesiastes (Ec 1.2; 4.7; 12.1-8), acerca da
 vaidade. Porque neles, o rei de Israel designa como vaidade aquilo que se
 encontra "debaixo do sol", em outras palavras, aquilo que é **temporário,
 cíclico, finito e pertencente a esta vida**.
