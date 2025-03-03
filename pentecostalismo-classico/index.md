@@ -1,5 +1,5 @@
-title: Pentecostalismo
+title: Pentecostalismo Clássico
 
-# Pentecostalismo
+# Pentecostalismo Clássico
 
 - [Terminologia Cristã](./terminologia-crista/)
