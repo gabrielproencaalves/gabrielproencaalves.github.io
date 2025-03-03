@@ -7,8 +7,8 @@ all: index \
      estudos-pessoais/como-aprender/index \
      estudos-pessoais/recursos-para-o-enem/index \
      faq/index \
-     pentecostalismo/index \
-     pentecostalismo/terminologia-crista/index
+     pentecostalismo-classico/index \
+     pentecostalismo-classico/terminologia-crista/index
 
 index:
 > ./makeart index.md
@@ -53,15 +53,15 @@ faq/index:
 > sed -i faq/index.html \
 > -e '/nav arrow/d'
 
-pentecostalismo/index:
-> ./makeart pentecostalismo/index.md
-> sed -i pentecostalismo/index.html \
+pentecostalismo-classico/index:
+> ./makeart pentecostalismo-classico/index.md
+> sed -i pentecostalismo-classico/index.html \
 > -e '/giscus/d' \
 > -e '/nav arrow/d' \
 > -e '/last-modified/d'
 
 
-pentecostalismo/terminologia-crista/index:
-> ./makeart pentecostalismo/terminologia-crista/index.md
-> sed -i pentecostalismo/terminologia-crista/index.html \
+pentecostalismo-classico/terminologia-crista/index:
+> ./makeart pentecostalismo-classico/terminologia-crista/index.md
+> sed -i pentecostalismo-classico/terminologia-crista/index.html \
 > -e '/nav arrow/d'
