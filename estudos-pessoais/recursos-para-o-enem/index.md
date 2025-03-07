@@ -1,5 +1,4 @@
 title: Recursos para o ENEM
-css: tabela.css
 
 # Recursos para o ENEM
 
