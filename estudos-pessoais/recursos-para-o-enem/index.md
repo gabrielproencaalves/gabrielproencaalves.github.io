@@ -86,7 +86,7 @@ educacional Gama Pré-Vestibulares\|2\|.
 
 | Conteúdo | No. de questões | Relevância |
 |-|-|-|
-| Físico-Química | 18 | 15,25% |
+| [Físico-Química](https://educapes.capes.gov.br/bitstream/capes/583369/1/F%c3%adsicoQu%c3%admicaEnem.2ed.2019.Final.pdf) | 18 | 15,25% |
 | Funções Orgânicas | 17 | 14,41% |
 | Funções Inorgânicas | 16 | 13,56% |
 | Inorgânica | 13 | 11,02% |
