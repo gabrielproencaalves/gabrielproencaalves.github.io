@@ -13,7 +13,7 @@ all: index \
 index:
 > ./makeart index.md
 > sed -i index.html \
-> -e '/.*giscus.*/d' \
+> -e '/giscus/d' \
 > -e '/nav/d' \
 > -e '/last-modified/d' \
 > -e '/tabela\.css/d'
