@@ -1,0 +1,40 @@
+#!/bin/sh
+
+questionar(){
+  printf "$1"
+  read resposta
+  [ "$2" = "$resposta" ]
+  return $?
+}
+
+TARGET="$1"
+PATH="$(echo $TARGET | sed 's/[[:alnum:]\ ._]*$//')"
+
+CONFIG_OUTPUT="$PATH""index:\n"
+CONFIG_OUTPUT="$CONFIG_OUTPUT""> ./makeart $PATH""index.md"
+
+questionar "Estilos para tabelas? [s/n] " "s"
+if [ $? -ne 0 ]
+then
+  SED_ARGS=" \\\n"
+  SED_ARGS="$SED_ARGS""> -e '/tabela\.css/d'"
+fi
+
+questionar "Barra de navegação? [s/n] " "s"
+if [ $? -ne 0 ]
+then
+  SED_ARGS="$SED_ARGS"" \\\n"
+  SED_ARGS="$SED_ARGS""> -e '/nav/d'"
+else
+  questionar "Setas de navegação
+fi
+
+questionar "Comentáios? [s/n]
+
+index:
+> ./makeart index.md
+> sed -i index.html \
+> -e '/tabela\.css/d' \
+> -e '/nav/d' \
+> -e '/last-modified/d' \
+> -e '/giscus/d'
