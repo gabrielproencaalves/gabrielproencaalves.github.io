@@ -1,5 +1,8 @@
 #!/bin/sh
 
+NEWLINE="
+"
+
 questionar(){
   printf "$1"
   read resposta
@@ -10,29 +13,26 @@ questionar(){
 TARGET="$1"
 PATH="$(echo $TARGET | sed 's/[[:alnum:]\ ._]*$//')"
 
-CONFIG_OUTPUT="$PATH""index:\n"
+CONFIG_OUTPUT="$PATH""index:$NEWLINE"
 CONFIG_OUTPUT="$CONFIG_OUTPUT""> ./makeart $PATH""index.md"
 
 questionar "Estilos para tabelas? [s/n] " "s"
 if [ $? -ne 0 ]
 then
-  SED_ARGS="$SED_ARGS"" \\"
-  SED_ARGS="$SED_ARGS""\n"
+  SED_ARGS="$SED_ARGS"" \\""$NEWLINE"
   SED_ARGS="$SED_ARGS""> -e '/tabela\.css/d'"
 fi
 
 questionar "Barra de navegação? [s/n] " "s"
 if [ $? -ne 0 ]
 then
-  SED_ARGS="$SED_ARGS"" \\"
-  SED_ARGS="$SED_ARGS""\n"
+  SED_ARGS="$SED_ARGS \\""$NEWLINE"
   SED_ARGS="$SED_ARGS""> -e '/nav/d'"
 else
   questionar "Setas de navegação? [s/n] " "s"
   if [ $? -ne 0 ]
   then
-    SED_ARGS="$SED_ARGS"" \\"
-    SED_ARGS="$SED_ARGS""\n"
+    SED_ARGS="$SED_ARGS \\""$NEWLINE"
     SED_ARGS="$SED_ARGS""> -e '/nav arrow/d'"
   fi
 fi
@@ -40,27 +40,24 @@ fi
 questionar "Última modificação? [s/n] " "s"
 if [ $? -ne 0 ]
 then
-  SED_ARGS="$SED_ARGS"" \\"
-  SED_ARGS="$SED_ARGS""\n"
+  SED_ARGS="$SED_ARGS \\""$NEWLINE"
   SED_ARGS="$SED_ARGS""> -e '/last-modified/d'"
 fi
 
 questionar "Comentários? [s/n] " "s"
 if [ $? -ne 0 ]
 then
-  SED_ARGS="$SED_ARGS"" \\"
-  SED_ARGS="$SED_ARGS""\n"
+  SED_ARGS="$SED_ARGS \\""$NEWLINE"
   SED_ARGS="$SED_ARGS""> -e '/giscus/d'"
 fi
 
 if [ "$SED_ARGS" ]
 then
-  CONFIG_OUTPUT="$CONFIG_OUTPUT""\n"
+  CONFIG_OUTPUT="$CONFIG_OUTPUT""$NEWLINE"
   CONFIG_OUTPUT="$CONFIG_OUTPUT""> sed -i ""$PATH""index.html"
   CONFIG_OUTPUT="$CONFIG_OUTPUT""$SED_ARGS"
 fi
 
 echo
-printf "$CONFIG_OUTPUT"
+echo "$CONFIG_OUTPUT"
 echo
-
