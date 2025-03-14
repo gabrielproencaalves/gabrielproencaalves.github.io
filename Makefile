@@ -70,3 +70,9 @@ pentecostalismo-classico/terminologia-crista/index:
 > sed -i pentecostalismo-classico/terminologia-crista/index.html \
 > -e '/nav arrow/d' \
 > -e '/tabela\.css/d'
+
+pentecostalismo-classico/cronologia-dos-livros-biblicos/index:
+> ./makeart pentecostalismo-classico/cronologia-dos-livros-biblicos/index.md
+> sed -i pentecostalismo-classico/cronologia-dos-livros-biblicos/index.html \
+> -e '/tabela\.css/d' \
+> -e '/nav arrow/d'
