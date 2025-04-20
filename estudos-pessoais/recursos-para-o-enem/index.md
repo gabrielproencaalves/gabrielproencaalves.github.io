@@ -108,6 +108,14 @@ https://sites.google.com/gamaensino.com/guiaenem2025/guia-enem-2025. Acesso em:
 \|2\| E, desde já, formalizo aqui os meus agradecimentos à estudante
 Nataly M. de Siqueira por repassar-me este estudo.
 
+## Cursinho Pré-ENEM UNINTER
+
+[Neste link](https://www.uninter.com/enem), está a página para a matrícula no
+Uninter Pré-ENEM, um cursinho totalmente online, gratuito e preparatório para
+estudantes do ENEM. Esse cursinho contempla todas as matérias do Exame,
+inclusive a de redação, com mais de 470 aulas gravadas, além das transmitidas
+ao vivo periodicamente.
+
 ## Ajude-me
 
 Por fim, se você souber outras fontes válidas de informação que cumpram os
