@@ -76,3 +76,10 @@ pentecostalismo-classico/cronologia-dos-livros-biblicos/index:
 > sed -i pentecostalismo-classico/cronologia-dos-livros-biblicos/index.html \
 > -e '/tabela\.css/d' \
 > -e '/nav arrow/d'
+
+quem-sou-eu/formacao-academica/index:
+> ./makeart quem-sou-eu/formacao-academica/index.md
+> sed -i quem-sou-eu/formacao-academica/index.html \
+> -e '/tabela\.css/d' \
+> -e '/nav arrow/d' \
+> -e '/giscus/d'
