@@ -8,7 +8,7 @@
 
 ---
 
-© 2024 Gabriel Proença Alves -- Todos os direitos reservados
+© 2024-2025 Gabriel Proença Alves -- Todos os direitos reservados
 
 ---
 
