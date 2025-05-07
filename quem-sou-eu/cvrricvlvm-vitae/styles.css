@@ -2,3 +2,11 @@ body {
   font-family: "Times New Roman", Arial;
   font-size: 12pt;
 }
+
+td.nome {
+  text-align: right;
+}
+
+td.valor {
+  text-indent: 12pt;
+}
