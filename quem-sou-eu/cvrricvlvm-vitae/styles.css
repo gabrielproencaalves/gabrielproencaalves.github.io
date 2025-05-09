@@ -3,10 +3,12 @@ body {
   font-size: 12pt;
 }
 
-td.nome {
-  text-align: right;
 }
 
-td.valor {
+td {
   text-indent: 12pt;
+}
+
+.text-align-right {
+  text-align: right;
 }
