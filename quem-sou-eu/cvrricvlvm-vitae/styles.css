@@ -13,6 +13,11 @@ h1 {
   font-size: 24pt;
 }
 
+hr {
+  margin: 0;
+  border: #aaaaaa solid 1px;
+}
+
 table {
   margin: 6pt 0 0 0;
 }
