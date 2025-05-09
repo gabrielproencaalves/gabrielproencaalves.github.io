@@ -14,7 +14,7 @@ Logo abaixo, estão agrupados por instuição de ensino os cursos e voluntariado
   - [Python M2](./certs/curso-em-video/python-m2.pdf).
   - [Python M3](./certs/curso-em-video/python-m3.pdf).
 
-- ESPRO (Ensino Social Profissionalizante)
+- ESPRO (Associação de Ensino Social Profissionalizante)
 
   - [Formação Para O Mundo Do Trabalho](./certs/espro/formacao-para-o-mundo-do-trabalho.pdf).
 
