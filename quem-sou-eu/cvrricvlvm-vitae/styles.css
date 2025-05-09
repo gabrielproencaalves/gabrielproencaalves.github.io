@@ -13,6 +13,10 @@ h1 {
   font-size: 24pt;
 }
 
+table {
+  margin: 6pt 0 0 0;
+}
+
 td {
   text-indent: 12pt;
 }
