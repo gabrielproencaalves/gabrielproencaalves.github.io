@@ -9,6 +9,15 @@ muitas comunidades cristãs. Porém, não repute os conteúdos a seguir como uma
 verdade absoluta, visto que são apenas interpretações pessoais e podem possuir
 equívocos.
 
+
+## O que é amar?
+
+No contexto cristão, amar é praticar o [amor](#o-que-amor).
+
+## O que é amor?
+
+*Vide* [caridade](#o-que-caridade).
+
 ## O que é caridade?
 
 Considerando a caridade como um sinônimo de amor, Deus é caridade\|1\|. Por isso,
