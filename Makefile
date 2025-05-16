@@ -77,6 +77,14 @@ pentecostalismo-classico/cronologia-dos-livros-biblicos/index:
 > -e '/tabela\.css/d' \
 > -e '/nav arrow/d'
 
+quem-sou-eu/index:
+> ./makeart quem-sou-eu/index.md
+> sed -i quem-sou-eu/index.html \
+> -e '/tabela\.css/d' \
+> -e '/nav arrow/d' \
+> -e '/last-modified/d' \
+> -e '/giscus/d'
+
 quem-sou-eu/formacao-academica/index:
 > ./makeart quem-sou-eu/formacao-academica/index.md
 > sed -i quem-sou-eu/formacao-academica/index.html \
