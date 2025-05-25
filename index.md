@@ -7,6 +7,6 @@ Estimado(a) leitor(a), seja bem-vindo(a) ao meu blog pessoal. Aqui, você encont
 - [Quem sou eu?](./quem-sou-eu/)
 - [Estudos Pessoais](./estudos-pessoais/)
 - [Pentecostalismo Clássico](./pentecostalismo-classico/)
-- [Música](./404/)
+- [Música](./musica/)
 - [Tecnologia](./404/)
 - [Perguntas frequentes](./faq/)
