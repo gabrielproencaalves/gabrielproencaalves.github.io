@@ -65,6 +65,14 @@ musica/index:
 > -e '/last-modified/d' \
 > -e '/giscus/d'
 
+musica/clarinete/index:
+> ./makeart musica/clarinete/index.md
+> sed -i musica/clarinete/index.html \
+> -e '/tabela\.css/d' \
+> -e '/nav arrow/d' \
+> -e '/last-modified/d' \
+> -e '/giscus/d'
+
 pentecostalismo-classico/index:
 > ./makeart pentecostalismo-classico/index.md
 > sed -i pentecostalismo-classico/index.html \
