@@ -51,6 +51,12 @@ estudos-pessoais/recursos-para-o-enem/index:
 > sed -i estudos-pessoais/recursos-para-o-enem/index.html \
 > -e '/nav arrow/d'
 
+estudos-pessoais/agradecimentos/index:
+> ./makeart estudos-pessoais/agradecimentos/index.md
+> sed -i estudos-pessoais/agradecimentos/index.html \
+> -e '/tabela\.css/d' \
+> -e '/nav arrow/d'
+
 faq/index:
 > ./makeart faq/index.md
 > sed -i faq/index.html \
