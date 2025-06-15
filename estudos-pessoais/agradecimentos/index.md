@@ -1,0 +1,5 @@
+title: Agradecimentos
+
+# Agradecimentos
+
+Primeiramente, sou grato a Deus e aos meus pais por me presentearem as mais valiosas dádivas que pude alcançar até hoje, dentre elas, a minha própria vida. E agradeço à professora de Biologia Regiane Aparecida Cioffi Lesniewski, aos de Física Pierluigi Piazzi e Luiz Alberto Clabonde, ao de Química Rodrigo de Souza Rocha, ao de História Luciano Marcos Ferreira, à de Geografia Camila Cristine do Nascimento, à de Educação Financeira Thelma Simone Silva Chaves, à de Língua Inglesa Caren Prestes, à de Filosofia Poliana Travaglia, à de Sociologia Rosângela Pedreira da Silva, ao de Educação Física Leandro Ernaldo Markevitch, ao de Produção Audiovisual Rodrigo Antônio Bellé, às de Ciências Andrea Luz e Elizandra Pitt, ao de Redação Marlus Humberto Geronasso, aos de Português Márcia Cassilha, Dalmarina Batista da Silva, Luis Brito, Dayene (Gerar Aprova 2024, Curitiba), Ketin (Gerar Aprova 2024, Curitiba) e Marilda de Fatima Barbosa e aos de Matemática Leandro Alberto Malinowski, Pedro Itallo e Jorge Paulo de Vargas por terem sido notórios atuantes no meu progresso intelectual. 
