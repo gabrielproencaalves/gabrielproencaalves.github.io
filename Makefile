@@ -121,3 +121,9 @@ tecnologia/index:
 > -e '/nav arrow/d' \
 > -e '/last-modified/d' \
 > -e '/giscus/d'
+
+tecnologia/graphviz/index:
+> ./makeart tecnologia/graphviz/index.md
+> sed -i tecnologia/graphviz/index.html \
+> -e '/tabela\.css/d' \
+> -e '/nav arrow/d'
