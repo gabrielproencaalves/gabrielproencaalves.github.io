@@ -113,3 +113,11 @@ quem-sou-eu/formacao-academica/index:
 > -e '/tabela\.css/d' \
 > -e '/nav arrow/d' \
 > -e '/giscus/d'
+
+tecnologia/index:
+> ./makeart tecnologia/index.md
+> sed -i tecnologia/index.html \
+> -e '/tabela\.css/d' \
+> -e '/nav arrow/d' \
+> -e '/last-modified/d' \
+> -e '/giscus/d'

@@ -8,5 +8,5 @@ Estimado(a) leitor(a), seja bem-vindo(a) ao meu blog pessoal. Aqui, você encont
 - [Estudos Pessoais](./estudos-pessoais/)
 - [Pentecostalismo Clássico](./pentecostalismo-classico/)
 - [Música](./musica/)
-- [Tecnologia](./404/)
+- [Tecnologia](./tecnologia/)
 - [Perguntas frequentes](./faq/)
