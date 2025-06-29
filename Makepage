@@ -1,6 +1,13 @@
 #!/bin/python3
 from sys import argv
 from os import system, remove
+from time import strftime
+
+LASTMODIFIED = strftime(
+  '<p class="last-modified">'
+  'Última modificação em %d/%m/%Y às %_H:%M horas.'
+  '</p>\n'
+)
 
 # Replace line storing oldexp by newexp. Substitui uma linha contendo oldexp
 # por newexp.
@@ -77,7 +84,11 @@ if __name__ == '__main__':
         freplace(OUTPUTFILE, '<body>', NAVCONF.read())
         freplace(OUTPUTFILE, ';;;StartMainContent', '<article>\n')
         freplace(OUTPUTFILE, ';;;EndMainContent', '</article>\n')
-#        #freplace(BASEFILE, OUTPUTFILE, ';;;InfoLastModified', last_modified())
+        freplace(
+          OUTPUTFILE,
+          ';;;InfoLastModified',
+          LASTMODIFIED
+        )
         freplace(OUTPUTFILE, ';;;CommentsArea', '<div class="giscus"></div>\n')
         freplace(OUTPUTFILE, ';;;StartFooter', '<footer>\n')
         freplace(OUTPUTFILE, ';;;EndFooter', '</footer>\n')
