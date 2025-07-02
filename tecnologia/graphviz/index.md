@@ -22,12 +22,12 @@ web_ e para o planejamento de redes de micros, além de outras possíveis
 finalidades mencionadas no site oficial do programa. Logo abaixo, estão alguns
 exemplos de trabalhos feitos com o _software_.
 
-[Um simples "Olá mundo"](https://graphviz.org/Gallery/directed/hello.svg)
+![Um simples "Olá mundo"](https://graphviz.org/Gallery/directed/hello.svg)
 
-[Árvore de análise notacional
+![Árvore de análise notacional
 matemática](https://graphviz.org/Gallery/directed/Genetic_Programming.svg)
 
-[Diagrama do Núcleo
+![Diagrama do Núcleo
 Linux](https://graphviz.org/Gallery/directed/Linux_kernel_diagram.svg)
 
 ## Instalação
