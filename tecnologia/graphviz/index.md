@@ -9,7 +9,7 @@ o emprego do pacote de _software Graphviz_. No entanto, antes de expor
 conceitos fundamentais e o modo de uso da _Graphviz_, pretendo resumir no
 próximo tópico o que ela é e os seus principais usos.
 
-### O que é a _Graphviz_ e qual sua utilidade?
+### Definição e Usabilidade
 
 Conforme a documentação oficial, a _Graphviz_ (contração de _graph
 visualization_, isto é, em português, visualização de grafos) é um software
