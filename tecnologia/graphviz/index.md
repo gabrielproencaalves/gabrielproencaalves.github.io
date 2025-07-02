@@ -38,3 +38,19 @@ disponíveis na seção de _downloads_ do site oficial localizada [neste
 link](https://graphviz.org/download/). Por isso, é recomendável o acesso desse
 endereço e a leitura das instruções da página, de acordo com o sistema
 operacional em uso na máquina a ser utilizada.
+
+## Uso Básico
+
+Quando devidamente instalada, a _Graphviz_, sendo ela um pacote de ferramentas,
+fornece os seguintes programas: _dot, neato, fdp, sfdp, circo, twopi, nop,
+osage_ e _patchwork_. E todos estes possuem o objetivo de gerar grafos; no
+entanto, formando esquemas visuais com elementos dispostos e organizados de
+modos diferentes para adequar o resultado a necessidades distintas. Porém,
+pretende-se demonstrar neste guia apenas o _dot_, pois ele basta para desenhar
+os mais comuns tipos de grafos.
+
+E, assim como as outras ferramentas embutidas na _Graphviz_, o _dot_, para
+construir as imagens finais semelhantes às na introdução, lê um arquivo criado
+pelo usuário contendo a descrição do grafo a ser desenhado, por meio de uma
+linguagem de marcação também chamada _dot_, interpreta-o e, finalmente, salva o
+esboço resultante em um arquivo de imagem.
