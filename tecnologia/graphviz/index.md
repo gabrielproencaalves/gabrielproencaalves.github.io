@@ -29,3 +29,12 @@ matemática](https://graphviz.org/Gallery/directed/Genetic_Programming.svg)
 
 [Diagrama do Núcleo
 Linux](https://graphviz.org/Gallery/directed/Linux_kernel_diagram.svg)
+
+## Instalação
+
+Oficialmente, a _Graphviz_ é desenvolvida para _Windows_, _MacOs_ e
+distribuições _Linux_, por meio de arquivos de instalação diferentes
+disponíveis na seção de _downloads_ do site oficial localizada [neste
+link](https://graphviz.org/download/). Por isso, é recomendável o acesso desse
+endereço e a leitura das instruções da página, de acordo com o sistema
+operacional em uso na máquina a ser utilizada.
