@@ -16,23 +16,49 @@
 </nav> <!-- nav endtag -->
 <hr/>
 <article>
-<p class="last-modified">Última modificação em 29/06/2025 às 21:09 horas.</p>
+<p class="last-modified">Última modificação em 01/07/2025 às 21:07 horas.</p>
 <h1 id="graphviz-um-guia-introdutrio">Graphviz: Um guia introdutório</h1>
 <h2 id="introduo">Introdução</h2>
 <p>Este guia possui como objetivo apresentar e explicar conhecimentos básicos para
 o emprego do pacote de <em>software Graphviz</em>. No entanto, antes de expor
 conceitos fundamentais e o modo de uso da <em>Graphviz</em>, pretendo resumir no
 próximo tópico o que ela é e os seus principais usos.</p>
-<h3 id="o-que-a-graphviz-e-qual-sua-utilidade">O que é a <em>Graphviz</em> e qual sua utilidade?</h3>
+<h3 id="definio-e-usabilidade">Definição e Usabilidade</h3>
 <p>Conforme a documentação oficial, a <em>Graphviz</em> (contração de <em>graph
-visualization</em>, isto é, em português, visualização de grafos) é um software
+visualization</em>, isto é, em português, visualização de grafos) é um <em>software</em>
 projetado para o desenho automático de grafos, isto é, de esquemas visuais
-compostos essencialmente por nós e arestas — conceitos posteriormente definidos
-neste guia —, tornando essa ferramenta recomendada para o esboço da organização
-de bancos de dados, a formalização de árvores genealógicas, hierarquias,
-organogramas e heredogramas, engenharia de <em>software</em>, <em>design web</em> e para o
-planejamento de redes de micros, além de outras possíveis finalidades
-mencionadas no site oficial do programa.</p>
+compostos essencialmente por nós e arestas &#8211; conceitos posteriormente
+definidos neste guia &#8211;, tornando essa ferramenta recomendada para o esboço da
+organização de bancos de dados, a formalização de árvores genealógicas,
+hierarquias, organogramas e heredogramas, engenharia de <em>software</em>, <em>design
+web</em> e para o planejamento de redes de micros, além de outras possíveis
+finalidades mencionadas no site oficial do programa. Logo abaixo, estão alguns
+exemplos de trabalhos feitos com o <em>software</em>.</p>
+<p><a href="https://graphviz.org/Gallery/directed/hello.svg">Um simples &#8220;Olá mundo&#8221;</a></p>
+<p><a href="https://graphviz.org/Gallery/directed/Genetic_Programming.svg">Árvore de análise notacional
+matemática</a></p>
+<p><a href="https://graphviz.org/Gallery/directed/Linux_kernel_diagram.svg">Diagrama do Núcleo
+Linux</a></p>
+<h2 id="instalao">Instalação</h2>
+<p>Oficialmente, a <em>Graphviz</em> é desenvolvida para <em>Windows</em>, <em>MacOs</em> e
+distribuições <em>Linux</em>, por meio de arquivos de instalação diferentes
+disponíveis na seção de <em>downloads</em> do site oficial localizada <a href="https://graphviz.org/download/">neste
+link</a>. Por isso, é recomendável o acesso desse
+endereço e a leitura das instruções da página, de acordo com o sistema
+operacional em uso na máquina a ser utilizada.</p>
+<h2 id="uso-bsico">Uso Básico</h2>
+<p>Quando devidamente instalada, a <em>Graphviz</em>, sendo ela um pacote de ferramentas,
+fornece os seguintes programas: <em>dot, neato, fdp, sfdp, circo, twopi, nop,
+osage</em> e <em>patchwork</em>. E todos estes possuem o objetivo de gerar grafos; no
+entanto, formando esquemas visuais com elementos dispostos e organizados de
+modos diferentes para adequar o resultado a necessidades distintas. Porém,
+pretende-se demonstrar neste guia apenas o <em>dot</em>, pois ele basta para desenhar
+os mais comuns tipos de grafos.</p>
+<p>E, assim como as outras ferramentas embutidas na <em>Graphviz</em>, o <em>dot</em>, para
+construir as imagens finais semelhantes às na introdução, lê um arquivo criado
+pelo usuário contendo a descrição do grafo a ser desenhado, por meio de uma
+linguagem de marcação também chamada <em>dot</em>, interpreta-o e, finalmente, salva o
+esboço resultante em um arquivo de imagem.</p>
 </article>
 <div class="giscus"></div>
 <footer>
