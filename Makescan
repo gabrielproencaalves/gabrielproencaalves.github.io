@@ -7,7 +7,7 @@ Makescan() {
   do
     if [ "$file" = "index.md" ]
     then
-      echo "$1/index"
+      echo "$1/index.md"
     fi
 
     if [ -d "$1/$file" ]

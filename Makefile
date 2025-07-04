@@ -1,7 +1,7 @@
 .RECIPEPREFIX = >
 INDEXES := $(shell ./Makescan)
-.PHONY := $(INDEXES)
 
+.PHONY: $(INDEXES)
 all: $(INDEXES)
 
 index.md:
