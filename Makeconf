@@ -16,13 +16,6 @@ PATH="$(echo $TARGET | sed 's/[[:alnum:]\ ._]*$//')"
 CONFIG_OUTPUT="$PATH""index:$NEWLINE"
 CONFIG_OUTPUT="$CONFIG_OUTPUT""> ./makeart $PATH""index.md"
 
-questionar "Estilos para tabelas? [s/n] " "s"
-if [ $? -ne 0 ]
-then
-  SED_ARGS="$SED_ARGS"" \\""$NEWLINE"
-  SED_ARGS="$SED_ARGS""> -e '/tabela\.css/d'"
-fi
-
 questionar "Barra de navegação? [s/n] " "s"
 if [ $? -ne 0 ]
 then
@@ -42,6 +35,20 @@ if [ $? -ne 0 ]
 then
   SED_ARGS="$SED_ARGS \\""$NEWLINE"
   SED_ARGS="$SED_ARGS""> -e '/last-modified/d'"
+fi
+
+questionar "Estilos para imagens? [s/n] " "s"
+if [ $? -ne 0 ]
+then
+  SED_ARGS="$SED_ARGS"" \\""$NEWLINE"
+  SED_ARGS="$SED_ARGS""> -e '/imagens\.css/d'"
+fi
+
+questionar "Estilos para tabelas? [s/n] " "s"
+if [ $? -ne 0 ]
+then
+  SED_ARGS="$SED_ARGS"" \\""$NEWLINE"
+  SED_ARGS="$SED_ARGS""> -e '/tabela\.css/d'"
 fi
 
 questionar "Comentários? [s/n] " "s"
