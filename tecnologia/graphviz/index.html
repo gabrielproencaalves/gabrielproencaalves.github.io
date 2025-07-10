@@ -17,7 +17,7 @@
 </nav><!-- nav endtag -->
 <hr/>
 <article>
-<p class="last-modified">Última modificação em 01/07/2025 às 21:07 horas.</p>
+<p class="last-modified">Última modificação em 09/07/2025 às 22:14 horas.</p>
 <h1 id="graphviz-um-guia-introdutrio">Graphviz: Um guia introdutório</h1>
 <h2 id="introduo">Introdução</h2>
 <p>Este guia possui como objetivo apresentar e explicar conhecimentos básicos para
@@ -27,14 +27,14 @@ próximo tópico o que ela é e os seus principais usos.</p>
 <h3 id="definio-e-usabilidade">Definição e Usabilidade</h3>
 <p>Conforme a documentação oficial, a <em>Graphviz</em> (contração de <em>graph
 visualization</em>, isto é, em português, visualização de grafos) é um <em>software</em>
-projetado para o desenho automático de grafos, isto é, de esquemas visuais
-compostos essencialmente por nós e arestas &#8211; conceitos posteriormente
-definidos neste guia &#8211;, tornando essa ferramenta recomendada para o esboço da
-organização de bancos de dados, a formalização de árvores genealógicas,
-hierarquias, organogramas e heredogramas, engenharia de <em>software</em>, <em>design
-web</em> e para o planejamento de redes de micros, além de outras possíveis
-finalidades mencionadas no site oficial do programa. Logo abaixo, estão alguns
-exemplos de trabalhos feitos com o <em>software</em>.</p>
+manipulável via comandos de texto e projetado para o desenho automático de
+grafos, isto é, de esquemas visuais compostos essencialmente por nós e arestas
+&#8211; conceitos posteriormente definidos neste guia &#8211;, tornando essa ferramenta
+recomendada para o esboço da organização de bancos de dados, a formalização de
+árvores genealógicas, hierarquias, organogramas e heredogramas, engenharia de
+<em>software</em>, <em>design web</em> e para o planejamento de redes de micros, além de
+outras possíveis finalidades mencionadas no site oficial do programa. Logo
+abaixo, estão alguns exemplos de trabalhos feitos com o <em>software</em>.</p>
 <p><img src="https://graphviz.org/Gallery/directed/hello.svg" alt="Um simples &quot;Olá mundo&quot;" /></p>
 <p><img src="https://graphviz.org/Gallery/directed/Genetic_Programming.svg" alt="Árvore de análise notacional
 matemática" /></p>
@@ -59,7 +59,16 @@ os mais comuns tipos de grafos.</p>
 construir as imagens finais semelhantes às na introdução, lê um arquivo criado
 pelo usuário contendo a descrição do grafo a ser desenhado, por meio de uma
 linguagem de marcação também chamada <em>dot</em>, interpreta-o e, finalmente, salva o
-esboço resultante em um arquivo de imagem.</p>
+esboço resultante em um arquivo de imagem, similarmente a este exemplo:</p>
+<p><img src="./img/esquema_funcionamento_dot.gv.svg" alt="Ilustração expressando o funcionamento do _dot_ e a diversidade de formatos
+de imagens disponibilizados pelo conjunto _Graphviz_ para o salvamento de
+grafos" /></p>
+<p>No arquivo inicialmente escrito pelo usuário, cuja extensão é, por convenção,
+&#8220;.gv&#8221;, pode-se descrever dois tipos distintos de grafos, os direcionados e os
+não direcionados. Os grafos direcionados, como induz o nome, são constituídos
+de elementos interligados por setas com um sentido definido, isto é, com uma
+sucessão. De modo contrário, os não direcionados não expressam sequências,
+apenas relações; por isso, suas ilustrações contêm, em vez de setas, linhas.</p>
 </article>
 <div class="giscus"></div>
 <footer>
