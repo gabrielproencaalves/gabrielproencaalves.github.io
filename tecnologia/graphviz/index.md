@@ -53,4 +53,8 @@ E, assim como as outras ferramentas embutidas na _Graphviz_, o _dot_, para
 construir as imagens finais semelhantes às na introdução, lê um arquivo criado
 pelo usuário contendo a descrição do grafo a ser desenhado, por meio de uma
 linguagem de marcação também chamada _dot_, interpreta-o e, finalmente, salva o
-esboço resultante em um arquivo de imagem.
+esboço resultante em um arquivo de imagem, similarmente a este exemplo:
+
+![Ilustração expressando o funcionamento do _dot_ e a diversidade de formatos
+de imagens disponibilizados pelo conjunto _Graphviz_ para o salvamento de
+grafos](./img/esquema_funcionamento_dot.gv.svg)
