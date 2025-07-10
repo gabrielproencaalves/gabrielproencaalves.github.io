@@ -58,3 +58,10 @@ esboço resultante em um arquivo de imagem, similarmente a este exemplo:
 ![Ilustração expressando o funcionamento do _dot_ e a diversidade de formatos
 de imagens disponibilizados pelo conjunto _Graphviz_ para o salvamento de
 grafos](./img/esquema_funcionamento_dot.gv.svg)
+
+No arquivo inicialmente escrito pelo usuário, cuja extensão é, por convenção,
+".gv", pode-se descrever dois tipos distintos de grafos, os direcionados e os
+não direcionados. Os grafos direcionados, como induz o nome, são constituídos
+de elementos interligados por setas com um sentido definido, isto é, com uma
+sucessão. De modo contrário, os não direcionados não expressam sequências,
+apenas relações; por isso, suas ilustrações contêm, em vez de setas, linhas.
