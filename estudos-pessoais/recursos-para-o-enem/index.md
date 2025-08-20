@@ -134,6 +134,19 @@ educacional Gama Pré-Vestibulares\|2\|.
 | Cartografia | 15 | 5,47% |
 | Fontes energéticas | 3 | 1,09% |
 
+### Filosofia e Sociologia
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Estado, política e sociedade | 88 | 27,59% |
+| Sociologia Cultural | 71 | 22,26% |
+| Sociologia dos Direitos Humanos | 57 | 17%,87% |
+| Pensamento Contemporâneo | 40 | 12,54% |
+| Filosofia Moderna | 23 | 7,21% |
+| Filosofia Antiga e Medieval | 20 | 6,27% |
+| Sociologia Clássica | 14 | 4,39% |
+| Sociologia Brasileira | 6 | 1,88% |
+
 ### Notas
 
 \|1\| Guia ENEM 2025: Guia de estudos para o enem 2025. Gama
