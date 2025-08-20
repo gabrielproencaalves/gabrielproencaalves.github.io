@@ -31,7 +31,7 @@ didaticamente notáveis.
 ## Classificação de Assuntos por Relevância
 
 Logo abaixo, estão classificados por frequência os conhecimentos abordados pelas
-provas anteriores do Enem, segundo uma pesquisa\|1\| formulada pelo centro
+provas anteriores do Enem até o ano de 2024, segundo uma pesquisa\|1\| formulada pelo centro
 educacional Gama Pré-Vestibulares\|2\|.
 
 ### Biologia
