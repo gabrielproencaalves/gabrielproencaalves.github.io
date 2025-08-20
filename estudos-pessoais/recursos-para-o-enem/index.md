@@ -108,6 +108,19 @@ educacional Gama Pré-Vestibulares\|2\|.
 | Escolas literárias | 47 | 9,87% |
 | Semântica | 28 | 5,88% |
 
+### História
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Brasil Colônia | 35 | 20,11% |
+| Era Moderna | 31 | 17,82% |
+| Brasil República I (1889-1945) | 28 | 16,09% |
+| Era Antiga e Medieval | 25 | 14,37% |
+| Brasil Império | 19 | 10,92% |
+| Era Contemporânea I (séc. XIX e XX) | 14 | 8,05% |
+| Era Contemporânea II (séc. XX e XXI) | 11 | 6,32% |
+| Brasil República II (1945 aos dias atuais) | 11 | 6,32% |
+
 ### Notas
 
 \|1\| Guia ENEM 2025: Guia de estudos para o enem 2025. Gama
