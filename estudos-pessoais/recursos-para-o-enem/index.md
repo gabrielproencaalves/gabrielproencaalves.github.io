@@ -48,7 +48,7 @@ educacional Gama Pré-Vestibulares\|2\|.
 | Citogenética | 9 | 4,89% |
 | Evolução | 7 | 3,80% |
 | Genética | 7 | 3,80% |
-| Fisiologia Humana 2: sistemas de respostas [imunológicas] | 6 | 3,26% |
+| Fisiologia Humana 2: sistemas de respostas \[imunológicas\] | 6 | 3,26% |
 | Fisiologia Humana 1: centros de controle | 5 | 2,72% |
 | Zoologia | 5 | 2,72% |
 | Reinos Inferiores | 4 | 2,17% |
