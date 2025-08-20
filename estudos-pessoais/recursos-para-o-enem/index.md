@@ -98,6 +98,16 @@ educacional Gama Pré-Vestibulares\|2\|.
 | Radioatividade | 5 | 4,24% |
 | Propriedades Orgânicas | 3 | 2,54% |
 
+### Linguagens
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Interpretação de texto | 267 | 56,09% |
+| Interpretação do texto | 84 | 17,65% |
+| Variação linguística | 50 | 10,50% |
+| Escolas literárias | 47 | 9,87% |
+| Semântica | 28 | 5,88% |
+
 ### Notas
 
 \|1\| Guia ENEM 2025: Guia de estudos para o enem 2025. Gama
