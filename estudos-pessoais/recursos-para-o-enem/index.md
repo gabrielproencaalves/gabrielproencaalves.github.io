@@ -121,6 +121,19 @@ educacional Gama Pré-Vestibulares\|2\|.
 | Era Contemporânea II (séc. XX e XXI) | 11 | 6,32% |
 | Brasil República II (1945 aos dias atuais) | 11 | 6,32% |
 
+### Geografia
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Geografia Geral Brasileira | 61 | 22,26% |
+| Geoeconomia e Geopolítica | 54 | 19,71% |
+| Geografia Física | 50 | 18,25% |
+| Geografia Humana | 39 | 14,23% |
+| Geografia Agrária | 27 | 9,85% |
+| Regionalização Brasileira | 25 | 9,12% |
+| Cartografia | 15 | 5,47% |
+| Fontes energéticas | 3 | 1,09% |
+
 ### Notas
 
 \|1\| Guia ENEM 2025: Guia de estudos para o enem 2025. Gama
