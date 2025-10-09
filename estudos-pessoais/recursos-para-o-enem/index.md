@@ -31,7 +31,7 @@ didaticamente notáveis.
 ## Classificação de Assuntos por Relevância
 
 Logo abaixo, estão classificados por frequência os conhecimentos abordados pelas
-provas anteriores do Enem, segundo uma pesquisa\|1\| formulada pelo centro
+provas anteriores do Enem até o ano de 2024, segundo uma pesquisa\|1\| formulada pelo centro
 educacional Gama Pré-Vestibulares\|2\|.
 
 ### Biologia
@@ -48,7 +48,7 @@ educacional Gama Pré-Vestibulares\|2\|.
 | Citogenética | 9 | 4,89% |
 | Evolução | 7 | 3,80% |
 | Genética | 7 | 3,80% |
-| Fisiologia Humana 2: sistemas de respostas [imunológicas] | 6 | 3,26% |
+| Fisiologia Humana 2: sistemas de respostas \[imunológicas\] | 6 | 3,26% |
 | Fisiologia Humana 1: centros de controle | 5 | 2,72% |
 | Zoologia | 5 | 2,72% |
 | Reinos Inferiores | 4 | 2,17% |
@@ -97,6 +97,55 @@ educacional Gama Pré-Vestibulares\|2\|.
 | Reações Orgânicas | 5 | 4,24% |
 | Radioatividade | 5 | 4,24% |
 | Propriedades Orgânicas | 3 | 2,54% |
+
+### Linguagens
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Interpretação de texto | 267 | 56,09% |
+| Interpretação do texto | 84 | 17,65% |
+| Variação linguística | 50 | 10,50% |
+| Escolas literárias | 47 | 9,87% |
+| Semântica | 28 | 5,88% |
+
+### História
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Brasil Colônia | 35 | 20,11% |
+| Era Moderna | 31 | 17,82% |
+| Brasil República I (1889-1945) | 28 | 16,09% |
+| Era Antiga e Medieval | 25 | 14,37% |
+| Brasil Império | 19 | 10,92% |
+| Era Contemporânea I (séc. XIX e XX) | 14 | 8,05% |
+| Era Contemporânea II (séc. XX e XXI) | 11 | 6,32% |
+| Brasil República II (1945 aos dias atuais) | 11 | 6,32% |
+
+### Geografia
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Geografia Geral Brasileira | 61 | 22,26% |
+| Geoeconomia e Geopolítica | 54 | 19,71% |
+| Geografia Física | 50 | 18,25% |
+| Geografia Humana | 39 | 14,23% |
+| Geografia Agrária | 27 | 9,85% |
+| Regionalização Brasileira | 25 | 9,12% |
+| Cartografia | 15 | 5,47% |
+| Fontes energéticas | 3 | 1,09% |
+
+### Filosofia e Sociologia
+
+| Conteúdo | No. de questões | Relevância |
+|-|-|-|
+| Estado, política e sociedade | 88 | 27,59% |
+| Sociologia Cultural | 71 | 22,26% |
+| Sociologia dos Direitos Humanos | 57 | 17%,87% |
+| Pensamento Contemporâneo | 40 | 12,54% |
+| Filosofia Moderna | 23 | 7,21% |
+| Filosofia Antiga e Medieval | 20 | 6,27% |
+| Sociologia Clássica | 14 | 4,39% |
+| Sociologia Brasileira | 6 | 1,88% |
 
 ### Notas
 

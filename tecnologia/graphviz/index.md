@@ -13,14 +13,14 @@ próximo tópico o que ela é e os seus principais usos.
 
 Conforme a documentação oficial, a _Graphviz_ (contração de _graph
 visualization_, isto é, em português, visualização de grafos) é um _software_
-projetado para o desenho automático de grafos, isto é, de esquemas visuais
-compostos essencialmente por nós e arestas -- conceitos posteriormente
-definidos neste guia --, tornando essa ferramenta recomendada para o esboço da
-organização de bancos de dados, a formalização de árvores genealógicas,
-hierarquias, organogramas e heredogramas, engenharia de _software_, _design
-web_ e para o planejamento de redes de micros, além de outras possíveis
-finalidades mencionadas no site oficial do programa. Logo abaixo, estão alguns
-exemplos de trabalhos feitos com o _software_.
+manipulável via comandos de texto e projetado para o desenho automático de
+grafos, isto é, de esquemas visuais compostos essencialmente por nós e arestas
+-- conceitos posteriormente definidos neste guia --, tornando essa ferramenta
+recomendada para o esboço da organização de bancos de dados, a formalização de
+árvores genealógicas, hierarquias, organogramas e heredogramas, engenharia de
+_software_, _design web_ e para o planejamento de redes de micros, além de
+outras possíveis finalidades mencionadas no site oficial do programa. Logo
+abaixo, estão alguns exemplos de trabalhos feitos com o _software_.
 
 ![Um simples "Olá mundo"](https://graphviz.org/Gallery/directed/hello.svg)
 
@@ -53,4 +53,15 @@ E, assim como as outras ferramentas embutidas na _Graphviz_, o _dot_, para
 construir as imagens finais semelhantes às na introdução, lê um arquivo criado
 pelo usuário contendo a descrição do grafo a ser desenhado, por meio de uma
 linguagem de marcação também chamada _dot_, interpreta-o e, finalmente, salva o
-esboço resultante em um arquivo de imagem.
+esboço resultante em um arquivo de imagem, similarmente a este exemplo:
+
+![Ilustração expressando o funcionamento do _dot_ e a diversidade de formatos
+de imagens disponibilizados pelo conjunto _Graphviz_ para o salvamento de
+grafos](./img/esquema_funcionamento_dot.gv.svg)
+
+No arquivo inicialmente escrito pelo usuário, cuja extensão é, por convenção,
+".gv", pode-se descrever dois tipos distintos de grafos, os direcionados e os
+não direcionados. Os grafos direcionados, como induz o nome, são constituídos
+de elementos interligados por setas com um sentido definido, isto é, com uma
+sucessão. De modo contrário, os não direcionados não expressam sequências,
+apenas relações; por isso, suas ilustrações contêm, em vez de setas, linhas.

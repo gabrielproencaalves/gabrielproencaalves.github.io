@@ -7,6 +7,7 @@ Primeiramente, sou grato a Deus e aos meus pais por me presentearem as mais vali
 * de Física Pierluigi Piazzi e Luiz Alberto Clabonde,
 * de Produção Audiovisual Rodrigo Antônio Bellé,
 * de Química Rodrigo de Souza Rocha,
+* de Banco de Dados Carlos Henrique Brendler Cabral,
 * de Matemática Leandro Alberto Malinowski, Pedro Itallo e Jorge Paulo de Vargas,
 * de Redação Marlus Humberto Geronasso,
 * de Português Márcia Cassilha, Dalmarina Batista da Silva, Luis Brito, Dayene (Gerar Aprova 2024, Curitiba), Ketin (Gerar Aprova 2024, Curitiba) e Marilda de Fatima Barbosa,
