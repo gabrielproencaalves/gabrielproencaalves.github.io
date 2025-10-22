@@ -45,6 +45,13 @@ estudos-pessoais/como-aprender/index.md:
 > -e '/tabela\.css/d' \
 > -e '/imagens\.css/d'
 
+estudos-pessoais/leituras-recomendadas/index:
+> ./makeart estudos-pessoais/leituras-recomendadas/index.md
+> sed -i estudos-pessoais/leituras-recomendadas/index.html \
+> -e '/nav arrow/d' \
+> -e '/imagens\.css/d' \
+> -e '/tabela\.css/d'
+
 estudos-pessoais/recursos-para-o-enem/index.md:
 > ./Makepage estudos-pessoais/recursos-para-o-enem/index.md
 > sed -i estudos-pessoais/recursos-para-o-enem/index.html \
