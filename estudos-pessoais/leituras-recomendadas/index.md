@@ -16,7 +16,7 @@ ignorado autor -- prof. Pierluigi Piazzi, aponta as crassas falhas do
 defeituoso sistema educacional brasileiro e ensina ao leitor a tornar-se
 autonomamente inteligente, provocando-o a fazer isso. Na minha opinião, este
 livro deveria ser uma leitura obrigatória em escolas e colégios, pois favorece
-o desenvolvimento intelectual do leitor, independemente de sua vocação e de
+o desenvolvimento intelectual do leitor, independentemente de sua vocação e de
 seus interesses.
 
 1. Discurso do Método (Descartes, 1637): nesta obra, o ilustre polímata francês
