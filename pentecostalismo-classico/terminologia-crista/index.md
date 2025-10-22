@@ -50,6 +50,14 @@ conhecemos que estamos nele [em Cristo]"\|5\| \|6\|.
 porém, omiti-as pois não eram tão necessárias. E, dentre elas, pode-se citar II
 João 1.6 e I Co 13.
 
+## O que é comunhão?
+
+Historicamente, o termo "comunhão" tem sua origem na palavra latina *communio*
+que é a contração de *commum* (comum) com *unio* (união), significando
+literalmente "união comum" -- ou simplesmente "união". Por isso, podemos dizer
+que "dobrar a comunhão" ou expressões do tipo não fazem sentido, porque, ou há
+união entre indivíduos, ou não há.
+
 ## O que é perdão?
 
 Nós, cristãos, devemos saber que pelo modo em que tratarmos nosso próximo Deus
