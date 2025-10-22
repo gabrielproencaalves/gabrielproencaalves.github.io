@@ -1,5 +1,7 @@
 title: Leituras Recomendadas
 
+# Leituras Recomendadas
+
 Com base nas minhas experiências de entusiasta leitor, deixo a seguir uma lista
 ordenada contendo os melhores livros lidos por mim até hoje, com um breve
 comentário pessoal sobre cada um.
