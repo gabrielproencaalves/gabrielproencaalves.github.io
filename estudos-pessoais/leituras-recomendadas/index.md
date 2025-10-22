@@ -21,6 +21,12 @@ livro deveria ser uma leitura obrigatória em escolas e colégios, pois favorece
 o desenvolvimento intelectual do leitor, independentemente de sua vocação e de
 seus interesses.
 
+1. Vá Mais Longe: Treine sua memória e sua inteligência (Cury, 2021): servindo
+como um complemento do segundo livro recomendado neste artigo, a obra Vá Mais
+Longe, redigida pelo psiquiatra paulista Augusto Cury, traz dez dicas de como
+fortalecer a memória e crescer a inteligência, além de alguns conselhos sobre a
+emoção.
+
 1. Discurso do Método (Descartes, 1637): nesta obra, o ilustre polímata francês
 René Descartes (Lê-se "Renê Dicárt") procura explicar o método pelo qual
 conseguiu empregar sua razão e desenvolver todo o seu trabalho intelectual nas
