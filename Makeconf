@@ -14,7 +14,7 @@ TARGET="$1"
 PATH="$(echo $TARGET | sed 's/[[:alnum:]\ ._]*$//')"
 
 CONFIG_OUTPUT="$PATH""index:$NEWLINE"
-CONFIG_OUTPUT="$CONFIG_OUTPUT""> ./makeart $PATH""index.md"
+CONFIG_OUTPUT="$CONFIG_OUTPUT""> ./Makepage $PATH""index.md"
 
 questionar "Barra de navegação? [s/n] " "s"
 if [ $? -ne 0 ]
