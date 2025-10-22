@@ -90,6 +90,13 @@ musica/clarinete/index.md:
 > -e '/giscus/d' \
 > -e '/imagens\.css/d'
 
+musica/clarinete/perguntas/index.md:
+> ./Makepage musica/clarinete/perguntas/index.md
+> sed -i musica/clarinete/perguntas/index.html \
+> -e '/nav arrow/d' \
+> -e '/imagens\.css/d' \
+> -e '/tabela\.css/d'
+
 pentecostalismo-classico/index.md:
 > ./Makepage pentecostalismo-classico/index.md
 > sed -i pentecostalismo-classico/index.html \
