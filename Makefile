@@ -45,8 +45,8 @@ estudos-pessoais/como-aprender/index.md:
 > -e '/tabela\.css/d' \
 > -e '/imagens\.css/d'
 
-estudos-pessoais/leituras-recomendadas/index:
-> ./makeart estudos-pessoais/leituras-recomendadas/index.md
+estudos-pessoais/leituras-recomendadas/index.md:
+> ./Makepage estudos-pessoais/leituras-recomendadas/index.md
 > sed -i estudos-pessoais/leituras-recomendadas/index.html \
 > -e '/nav arrow/d' \
 > -e '/imagens\.css/d' \
