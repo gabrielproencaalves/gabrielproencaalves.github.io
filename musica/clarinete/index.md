@@ -9,4 +9,4 @@ o uso de seu instrumento.
 
 - [Blog de Jenny Maclay:](https://jennyclarinet.com) uma das maiores
 clarinetistas do mundo.
-- [Perguntas:](./perguntas/): acerca do que uso atualmente.
+- [Perguntas:](./perguntas/) acerca do que uso atualmente.
