@@ -5,4 +5,5 @@ title: Estudos Pessoais
 - [Agradecimentos:](./agradecimentos/) àqueles que me ajudaram nesse âmbito.
 - [Como Aprender:](./como-aprender/) o guia prático de aprendizagem para estudantes.
 - [A Leitura:](./a-leitura/) as vantagens do hábito de ler e como obtê-las.
+- [Leituras Recomendadas:](./leituras-recomendadas/) uma lista de livros os quais recomendo para leitura.
 - [Recursos para o ENEM:](./recursos-para-o-enem/) recursos online, gratuitos e recomendáveis para os estudantes do ENEM.
