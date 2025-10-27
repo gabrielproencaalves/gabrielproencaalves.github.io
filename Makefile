@@ -151,3 +151,12 @@ tecnologia/graphviz/index.md:
 > sed -i tecnologia/graphviz/index.html \
 > -e '/tabela\.css/d' \
 > -e '/nav arrow/d'
+
+pentecostalismo-classico/congregacao-crista-no-brasil/index.md:
+> ./Makepage pentecostalismo-classico/congregacao-crista-no-brasil/index.md
+> sed -i pentecostalismo-classico/congregacao-crista-no-brasil/index.html \
+> -e '/nav arrow/d' \
+> -e '/last-modified/d' \
+> -e '/imagens\.css/d' \
+> -e '/tabela\.css/d' \
+> -e '/giscus/d'
