@@ -1,5 +1,7 @@
 title: Da Congregação Cristã no Brasil
 
+# Da CCB
+
 _Observação: embora o nome da Congregação seja mencionado nesta
 página e nas que ela referencia, este blog **NÃO possui vínculo** com a
 instituição Congregação Cristã no Brasil, **nem se propõe a representá-la**,
