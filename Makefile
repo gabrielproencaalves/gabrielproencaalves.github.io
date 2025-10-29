@@ -160,3 +160,10 @@ pentecostalismo-classico/congregacao-crista-no-brasil/index.md:
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
 > -e '/giscus/d'
+
+pentecostalismo-classico/congregacao-crista-no-brasil/como-orar/index.md:
+> ./Makepage pentecostalismo-classico/congregacao-crista-no-brasil/como-orar/index.md
+> sed -i pentecostalismo-classico/congregacao-crista-no-brasil/como-orar/index.html \
+> -e '/nav arrow/d' \
+> -e '/imagens\.css/d' \
+> -e '/tabela\.css/d'
