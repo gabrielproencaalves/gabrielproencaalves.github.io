@@ -42,6 +42,8 @@ orar em suas casas, porque, primeiramente, isso a aproxima de Deus e,
 posteriormente, prepara-a para futuras necessidades que exijam uma oração a
 Deus.
 
+## Notas
+
 \|1\| Alguns deles são Gênesis 25.21, I Samuel 1.10, II Reis 20.2, Jonas 2.1,
 Habacuque 3, Lucas 22.40-44 e Tiago 5.13.
 
