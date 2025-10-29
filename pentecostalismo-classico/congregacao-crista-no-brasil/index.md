@@ -10,3 +10,5 @@ encontrado no rodapé deste site._
 
 Nesta seção, reunirei textos redigidos por mim dedicados aos meus interessados
 leitores e irmãos da Congregação Cristã no Brasil.
+
+- [Como orar?](./como-orar/)
