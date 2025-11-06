@@ -19,7 +19,7 @@ oração, é visto por alguns de modo tão supersticioso a ponto de parecer um
 desafio\|1\|. E, novamente, não é.
 
 Antes de demonstrar a simplicidade da oração, importa entendermos o que ela é.
-Nas Sagradas Escrituras, não há versículos escritos buscando definir uma
+Nas Sagradas Escrituras, não há versículos buscando definir uma
 oração. Em vez disso, encontramos Nela trechos contendo ensinos e exemplos do
 orar\|2\| pelos quais podemos afirmar isto: a oração é toda comunicação de
 alguém para com Deus. Desse modo, ela é para nós relevante por permitir nossa
