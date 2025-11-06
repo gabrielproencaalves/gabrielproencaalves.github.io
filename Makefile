@@ -152,18 +152,21 @@ tecnologia/graphviz/index.md:
 > -e '/tabela\.css/d' \
 > -e '/nav arrow/d'
 
-pentecostalismo-classico/congregacao-crista-no-brasil/index.md:
-> ./Makepage pentecostalismo-classico/congregacao-crista-no-brasil/index.md
-> sed -i pentecostalismo-classico/congregacao-crista-no-brasil/index.html \
+pentecostalismo-classico/da-congregacao-crista-no-brasil/como-orar/index.md:
+> ./Makepage pentecostalismo-classico/da-congregacao-crista-no-brasil/como-orar/index.md
+> sed -i pentecostalismo-classico/da-congregacao-crista-no-brasil/como-orar/index.html \
+> -e '/nav arrow/d' \
+> -e '/imagens\.css/d' \
+> -e '/tabela\.css/d'
+
+pentecostalismo-classico/da-congregacao-crista-no-brasil/index.md:
+> ./Makepage pentecostalismo-classico/da-congregacao-crista-no-brasil/index.md
+> sed -i pentecostalismo-classico/da-congregacao-crista-no-brasil/index.html \
+> -e '/nav arrow/d' \
+> -e '/imagens\.css/d' \
+> -e '/tabela\.css/d' \
 > -e '/nav arrow/d' \
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
 > -e '/giscus/d'
-
-pentecostalismo-classico/congregacao-crista-no-brasil/como-orar/index.md:
-> ./Makepage pentecostalismo-classico/congregacao-crista-no-brasil/como-orar/index.md
-> sed -i pentecostalismo-classico/congregacao-crista-no-brasil/como-orar/index.html \
-> -e '/nav arrow/d' \
-> -e '/imagens\.css/d' \
-> -e '/tabela\.css/d'
