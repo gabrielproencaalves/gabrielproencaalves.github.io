@@ -170,3 +170,10 @@ pentecostalismo-classico/da-congregacao-crista-no-brasil/index.md:
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
 > -e '/giscus/d'
+
+pentecostalismo-classico/voce-e-de-paulo-ou-de-apolo/index.md:
+> ./Makepage pentecostalismo-classico/voce-e-de-paulo-ou-de-apolo/index.md
+> sed -i pentecostalismo-classico/voce-e-de-paulo-ou-de-apolo/index.html \
+> -e '/nav arrow/d' \
+> -e '/imagens\.css/d' \
+> -e '/tabela\.css/d'
