@@ -89,7 +89,6 @@ if __name__ == '__main__':
           ';;;InfoLastModified',
           LASTMODIFIED
         )
-        freplace(OUTPUTFILE, ';;;CommentsArea', '<div class="giscus"></div>\n')
         freplace(OUTPUTFILE, ';;;StartFooter', '<footer>\n')
         freplace(OUTPUTFILE, ';;;EndFooter', '</footer>\n')
 
