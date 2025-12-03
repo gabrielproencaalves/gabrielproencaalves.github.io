@@ -169,9 +169,8 @@ ao vivo periodicamente.
 
 Por fim, se você souber outras fontes válidas de informação que cumpram os
 critérios dos materiais aqui divulgados, por favor, contribua compartilhando-as
-pela seção de comentários localizada abaixo ou com o [meu
-email](mailto:t0gvovdr@mailmask.me). Pois isso poderá auxiliar a muitos
-estudantes que possuem somente o acesso à internet. Além disso, se já houverem
-demandas pendentes para inclusão de conteúdos a esta página, peço que
+com o [meu email](mailto:t0gvovdr@mailmask.me). Pois isso poderá auxiliar a
+muitos estudantes que possuem somente o acesso à internet. Além disso, se já
+houverem demandas pendentes para inclusão de conteúdos a esta página, peço que
 auxilie-me a finalizá-las informando-se, e manifestando-se, [neste
 site](https://github.com/gabrielproencaalves/gabrielproencaalves.github.io/issues?q=is%3Aissue%20state%3Aopen%20label%3ARecursosParaOENEM).

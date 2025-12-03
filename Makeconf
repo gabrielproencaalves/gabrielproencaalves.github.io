@@ -52,13 +52,6 @@ genconf(){
     SED_ARGS="$SED_ARGS""> -e '/tabela\.css/d'"
   fi
 
-  questionar "Comentários? [s/n] " "s"
-  if [ $? -ne 0 ]
-  then
-    SED_ARGS="$SED_ARGS \\""$NEWLINE"
-    SED_ARGS="$SED_ARGS""> -e '/giscus/d'"
-  fi
-
   if [ "$SED_ARGS" ]
   then
     CONFIG_OUTPUT="$CONFIG_OUTPUT""$NEWLINE"
