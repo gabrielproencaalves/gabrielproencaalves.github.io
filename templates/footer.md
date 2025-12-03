@@ -2,8 +2,6 @@
 
 ;;;EndMainContent
 
-;;;CommentsArea
-
 ;;;StartFooter
 
 ---
