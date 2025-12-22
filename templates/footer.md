@@ -12,6 +12,8 @@ _Deum timeo_
 
 Email: `t0gvovdr@mailmask.me`
 
+[RSS](/feed.xml)
+
 Page created using [simpages](https://github.com/gabrielproencaalves/simpages)
 
 ---
