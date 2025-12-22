@@ -3,3 +3,6 @@ plugins:
 title: Blog de Gabriel P. Alves
 description: Seja bem-vindo(a) ao meu blog
 author: Gabriel Proença Alves
+feed:
+  icon: img/favicon.ico
+  logo: img/favicon.ico
