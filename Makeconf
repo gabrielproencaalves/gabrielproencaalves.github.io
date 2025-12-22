@@ -16,6 +16,7 @@ genconf(){
 
   CONFIG_OUTPUT="$TARGET_PATH""index.md:$NEWLINE"
   CONFIG_OUTPUT="$CONFIG_OUTPUT""> ./Makepage $TARGET_PATH""index.md"
+  SED_ARGS=""
 
   questionar "Barra de navegação? [s/n] " "s"
   if [ $? -ne 0 ]
