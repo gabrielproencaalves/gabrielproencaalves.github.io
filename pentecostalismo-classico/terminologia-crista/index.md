@@ -74,7 +74,6 @@ Tudo; exceto as coisas de natureza espiritual, porque duram eternamente\|1\|.
 
 \|1\| De fato, não existe um versículo bíblico que explicite isso. Porém, ela
 pode ser assim definida por meio das características implícitas nos exemplos de
-Salomão, os encontrados em Eclesiastes (Ec 1.2; 4.7; 12.1-8), acerca da
-vaidade. Porque neles, o rei de Israel designa como vaidade aquilo que se
-encontra "debaixo do sol", em outras palavras, aquilo que é **temporário,
-cíclico, finito e pertencente a esta vida**.
+vaidade dados por Salomão, os encontrados em Eclesiastes (Ec 1.2; 4.7; 12.1-8), porque, neles, o rei de Israel designa como vaidade aquilo
+que se encontra "debaixo do sol", ou seja, aquilo que é
+**temporário, cíclico, finito e pertencente a esta vida**.
