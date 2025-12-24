@@ -11,7 +11,7 @@ all: $(INDEXES)
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
-> -e '/feed.xml/d'
+> -e '/feed_meta/d'
 
 estudos-pessoais/agradecimentos/index.md:
 > ./Makepage estudos-pessoais/agradecimentos/index.md
@@ -41,7 +41,7 @@ estudos-pessoais/index.md:
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
-> -e '/feed.xml/d'
+> -e '/feed_meta/d'
 
 estudos-pessoais/leituras-recomendadas/index.md:
 > ./Makepage estudos-pessoais/leituras-recomendadas/index.md
@@ -70,7 +70,7 @@ musica/clarinete/index.md:
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
-> -e '/feed.xml/d'
+> -e '/feed_meta/d'
 
 musica/clarinete/perguntas/index.md:
 > ./Makepage musica/clarinete/perguntas/index.md
@@ -86,7 +86,7 @@ musica/index.md:
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
-> -e '/feed.xml/d'
+> -e '/feed_meta/d'
 
 pentecostalismo-classico/cronologia-dos-livros-biblicos/index.md:
 > ./Makepage pentecostalismo-classico/cronologia-dos-livros-biblicos/index.md
@@ -109,7 +109,7 @@ pentecostalismo-classico/da-congregacao-crista-no-brasil/index.md:
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
-> -e '/feed.xml/d'
+> -e '/feed_meta/d'
 
 pentecostalismo-classico/index.md:
 > ./Makepage pentecostalismo-classico/index.md
@@ -118,7 +118,7 @@ pentecostalismo-classico/index.md:
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
-> -e '/feed.xml/d'
+> -e '/feed_meta/d'
 
 pentecostalismo-classico/terminologia-crista/index.md:
 > ./Makepage pentecostalismo-classico/terminologia-crista/index.md
@@ -141,7 +141,7 @@ quem-sou-eu/index.md:
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
-> -e '/feed.xml/d'
+> -e '/feed_meta/d'
 
 tecnologia/graphviz/index.md:
 > ./Makepage tecnologia/graphviz/index.md
@@ -156,4 +156,4 @@ tecnologia/index.md:
 > -e '/last-modified/d' \
 > -e '/imagens\.css/d' \
 > -e '/tabela\.css/d' \
-> -e '/feed.xml/d'
+> -e '/feed_meta/d'
