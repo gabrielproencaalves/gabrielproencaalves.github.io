@@ -1,9 +1,8 @@
 plugins:
   - jekyll-feed
-title: Blog de Gabriel P. Alves
-description: Seja bem-vindo(a) ao meu blog
-author: Gabriel Proença Alves
-baseurl: ""
+title: "Blog de Gabriel P. Alves"
+description: "Seja bem-vindo(a) ao meu blog"
+author: "Gabriel Proença Alves"
 url: "https://gabrielproencaalves.github.io"
 feed:
   icon: img/favicon.ico
