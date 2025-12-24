@@ -57,7 +57,7 @@ genconf(){
   if [ $? -ne 0 ]
   then
     SED_ARGS="$SED_ARGS"" \\""$NEWLINE"
-    SED_ARGS="$SED_ARGS""> -e '/feed.xml/d'"
+    SED_ARGS="$SED_ARGS""> -e '/feed_meta/d'"
   fi
 
   if [ "$SED_ARGS" ]
